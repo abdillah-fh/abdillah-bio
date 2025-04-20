@@ -1,3 +1,3 @@
 # Simple Website like Linktree
 
-I built this website using html and tailwindCSS
+This is my first website built with Tailwind CSS
